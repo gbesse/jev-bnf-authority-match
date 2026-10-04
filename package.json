@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-bnf-authority-match",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Résout une mention ambiguë vers des autorités BnF candidates et conserve les rapprochements incertains en revue.",
   "type": "module",
   "license": "MIT",
